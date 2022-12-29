@@ -42,15 +42,7 @@ h2 {
 .right-col {
   width: 50%;
 }
-img{
-  
-    max-width: 50%;
-    height: auto;
-    position: absolute;
-    top:0;
-    right :0;
 
-}
 
 figure {
   width: 100%;
