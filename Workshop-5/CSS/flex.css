@@ -37,10 +37,19 @@
       .image-container{
         height: 50%;
       }
+
+      .image-container figure img {
+        width: 100%;
+        height: 30%;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center center;
+      }
+      
       img{
         
         width: 100%;
-        height: 0%;
+        height: 30%;
         
       }
       
