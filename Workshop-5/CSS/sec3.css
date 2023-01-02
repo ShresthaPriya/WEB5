@@ -1,0 +1,46 @@
+*{
+    padding:0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(223, 140, 14);
+    text-align: center;
+}
+.content{
+    border: 3px solid transparent;
+    display: block;
+    padding-top: 40px;
+    padding-bottom: 30px;
+}
+.img-content{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    line-height: 20px;
+}
+h2{
+    font-size: 40px;
+    font-weight: 00;
+}
+p{
+    font-size: 30px;
+}
+h3{
+    font-weight: 700;
+    font-size: 20px;
+}
+.Priya{
+    border: 3px solid transparent;
+    padding-left: 0;
+    
+}
+.Riddhi{
+    border: 3px solid transparent;
+    
+}
+.Eliza{
+    border: 3px solid transparent;
+    
+}
+img{
+    height: 200px;
+    width: 200px;
+}
