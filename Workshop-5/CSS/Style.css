@@ -14,6 +14,7 @@ body {
 
 .splitBlock {
   display: flex;
+  height: 100%;
 }
 
 .left-col {
@@ -52,6 +53,7 @@ figure {
   background-position: center center;
   
 }
+
 
 .button {
   margin-top: 20px;
@@ -95,7 +97,7 @@ figure {
 
   figure {
     
-    height: 300px;
+    height: 200px;
   }
 }
 

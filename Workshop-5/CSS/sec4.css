@@ -1,0 +1,47 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500&display=swap');
+*{
+    padding: 0;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    box-sizing: border-box;
+    margin: 0;
+    background-color: rgb(65, 150, 121);
+}
+.container{
+    display: flex;
+    justify-content: flex-start;
+    
+    
+}
+.left-img{
+    overflow: visible;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position:center center;
+  height: 100%;
+  width: 50%;
+
+  
+}
+img{
+    height: 600px;
+    width: auto;
+}
+.right-para{
+    padding-left: 4%;
+    padding-top: 5%;
+    color: aliceblue;
+    width: 50%;
+
+}
+h1{
+    font-weight: 700;
+    padding-bottom: 20px;
+    font-size: 60px;
+    padding-bottom: 200px;
+    
+}
+p{
+font-size: 20px;
+padding-top: 10px;
+}

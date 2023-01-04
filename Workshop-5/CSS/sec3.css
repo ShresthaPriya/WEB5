@@ -13,24 +13,27 @@
 .img-content{
     display: flex;
     flex-direction: row;
-    justify-content: space-evenly;
-    line-height: 20px;
+    justify-content: space-between;
+    line-height: 10px;
 }
 h2{
     font-size: 40px;
     font-weight: 00;
 }
 p{
-    font-size: 30px;
+    font-size: 20px;
+    line-height: 4px;
+    
+    
 }
 h3{
     font-weight: 700;
     font-size: 20px;
+    padding-top: 20px;
 }
 .Priya{
     border: 3px solid transparent;
-    padding-left: 0;
-    
+      
 }
 .Riddhi{
     border: 3px solid transparent;
